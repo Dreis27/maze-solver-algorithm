@@ -1,3 +1,8 @@
+# Description
+
+Maze-solving algorithm employing recursive Depth First Search algorithm to look for the shortest path between two points in the maze.
+DFS is not the most efficient approach for this type of problem however it provides an ability to implement the required functionality elegantly and concisely.
+
 # How to run
 
 - navigate to the directory
